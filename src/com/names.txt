@@ -3,8 +3,6 @@ A
 B
 C
 D
-E
-F
 
 Numbers
 1
@@ -16,5 +14,6 @@ Numbers
 7
 8
 9
+
 
 
